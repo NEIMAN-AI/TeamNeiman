@@ -44,7 +44,7 @@ tgcrypto
 validators
 vcam
 
-git+https://github.com/NEIMAN-AI/py-googletrans
-git+https://github.com/NEIMAN-AI/Wikipedia
-git+https://github.com/NEIMAN-AI/yt-dlp-fork
-git+https://github.com/NEIMAN-AI/yt-search-python
+git+https://github.com/HellBoy-OP/py-googletrans
+git+https://github.com/HellBoy-OP/Wikipedia
+git+https://github.com/HellBoy-OP/yt-dp-fork
+git+https://github.com/HellBoy-OP/yt-search-python
