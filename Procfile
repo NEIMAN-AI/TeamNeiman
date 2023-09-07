@@ -1,1 +1,1 @@
-worker: python3 -m NEIMAN
+worker: bash NEIMAN
