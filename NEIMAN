@@ -6,7 +6,7 @@ _neiman_zip () {
     then
         echo "https://github.com/${GIT_REPO}/archive/master.zip"
     else
-        echo "aHR0cHM6Ly9naXRodWIuY29tL1RoZS1IZWxsQm90L1BsdWdpbnMtVC9hcmNoaXZlL21hc3Rlci56aXA=" | base64 -d
+        echo "aHR0cHM6Ly9naXRodWIuY29tL05FSU1BTi1BSS9OZWltYW5Cb3QtcGx1Z2lucy9hcmNoaXZlL21hc3Rlci56aXA=" | base64 -d
     fi
 }
 
