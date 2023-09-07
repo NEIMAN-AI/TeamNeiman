@@ -1,0 +1,36 @@
+#!/bin/bash
+
+
+_neiman_zip () {
+    if [[ $GIT_REPO ]]
+    then
+        echo "https://github.com/${GIT_REPO}/archive/master.zip"
+    else
+        echo "aHR0cHM6Ly9naXRodWIuY29tL1RoZS1IZWxsQm90L1BsdWdpbnMtVC9hcmNoaXZlL21hc3Rlci56aXA=" | base64 -d
+    fi
+}
+
+_library () {
+    if [[ $BOT_LIBRARY == "pyrogram" ]]
+    then 
+        python3 -m PyrogramNeiman
+    else
+        python3 -m TelethonNeiman
+    fi
+}
+
+_starter () {
+    local neimanpath
+    neimanpath="Plugins.zip"
+    echo "••• DOWNLOADING NEIMANBOT •••"
+    wget -q $(_neiman_zip) -O "$neimanpath"
+    NEIMANPATH=$(zipinfo -1 "$neimanpath" | grep -v "/.");
+    unzip -qq "$neimanpath"
+    rm -rf "$neimanpath"
+    cd $NEIMANPATH
+    python3 ../updater.py ../requirements.txt requirements.txt
+    echo "••• STARTING NEIMANBOT •••"
+    _library
+}
+
+_starter
