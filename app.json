@@ -5,7 +5,7 @@
     "repository": "https://github.com/NEIMAN-AI/TeamNeiman",
   "stack": "container",
     "env": {
-        "STRING_SESSION1": {
+        "SESSION": {
             "description": "fill with the Pyrogram  session string from @RADHA_STRING_ROBOT telegram bot",
             "required": true
         },
