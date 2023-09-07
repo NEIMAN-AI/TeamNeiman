@@ -62,10 +62,10 @@
  </p> 
   
  <h4 align="center"> 
-     Copyright (C) 2023 <a href="https://github.com/NEIMAN-AI/TeamNeiman-ChatBot">TEAM-NEIMAN chatbot</a> 
+     Copyright (C) 2023 <a href="https://github.com/NEIMAN-AI/TeamNeiman">иღιмαив♡т</a> 
  </h4> 
   
- Project [TEAM-NEIMAN chatbot](https://github.com/NEIMAN-AI/TeamNeiman) is free software: you can redistribute it and/or modify 
+ Project [иღιмαив♡т](https://github.com/NEIMAN-AI/TeamNeiman) is free software: you can redistribute it and/or modify 
  it under the terms of the GNU General Public License as published by 
  the Free Software Foundation, either version 3 of the License, or 
  (at your option) any later version. 
