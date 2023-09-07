@@ -40,7 +40,7 @@ def main():
         verify = int(randint(1, 50))
         okvai = int(input(f"Enter {verify} to continue: "))
         if okvai == verify:
-            print("\nChoose the string session type: \n1. NeimaBot \n2. Telethon \n3. Pyrogram \n4. Instagram")
+            print("\nChoose the string session type: \n1. NeimanBot \n2. Telethon \n3. Pyrogram \n4. Instagram")
             while True:
                 library = input("\nYour Choice: ")
                 if library == "1":
