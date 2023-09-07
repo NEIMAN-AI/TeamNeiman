@@ -64,7 +64,7 @@ def main():
 
 def generate_neimanbot_session():
     print("!!! NEIMANBOT SESSION !!!")
-    print("One session for all HellBot's Project.")
+    print("One session for all NeimanBot's Project.")
     api_id = int(input("\nEnter APP ID here: "))
     api_hash = input("\nEnter API_HASH here: ")
     with PClient(name="neimanuser", api_id=api_id, api_hash=api_hash, in_memory=True) as hell:
