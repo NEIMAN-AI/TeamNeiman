@@ -81,7 +81,7 @@
   
  ------ 
   
- ## CREADITS 
+ ## `CREDITS `
  - 💖 [Neiman Marcus](https://github.com/NEIMAN-AI) 
  - 💖 [Geek Typer](https://github.com/Geektyper) 
   
