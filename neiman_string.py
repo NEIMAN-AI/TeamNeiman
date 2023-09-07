@@ -71,7 +71,7 @@ def generate_neimanbot_session():
         print("\nYour NEIMANBOT SESSION is saved in your telegram saved messages.")
         _session = neiman.export_session_string()
         neiman_session = neimanbot_session(_session)
-        neimanbot.send_message(
+        neiman.send_message(
             "me",
             f"#NEIMANBOT_SESSION \n\n`{neiman_session}`",
         )
