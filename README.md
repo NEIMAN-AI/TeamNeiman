@@ -18,7 +18,7 @@
  </h6> 
   
  <h3 align="center"> 
-   <b>A Smooth & Fast Telegram CHATBOT Based On Telethon Bot Library.</b> 
+   <b>A Smooth & Fast Telegram USERBOT Based On Telethon Bot Library.</b> 
  </h3> 
   
  <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/NEIMAN-AI/TeamNeiman"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-green?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p> 
@@ -65,7 +65,7 @@
      Copyright (C) 2023 <a href="https://github.com/NEIMAN-AI/TeamNeiman-ChatBot">TEAM-NEIMAN chatbot</a> 
  </h4> 
   
- Project [TEAM-NEIMAN chatbot](https://github.com/NEIMAN-AI/TeamNeiman-ChatBot) is free software: you can redistribute it and/or modify 
+ Project [TEAM-NEIMAN chatbot](https://github.com/NEIMAN-AI/TeamNeiman) is free software: you can redistribute it and/or modify 
  it under the terms of the GNU General Public License as published by 
  the Free Software Foundation, either version 3 of the License, or 
  (at your option) any later version. 
