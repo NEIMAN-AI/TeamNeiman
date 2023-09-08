@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </h2>
-<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=ᴛʜᴇ+ᴛᴇʟᴇɢʀᴀᴍ+ғᴀsᴛᴇsᴛ+ᴜsᴇʀʙᴏᴛ;+ᴘᴏᴡᴇʀᴅ+ʙʏ+ᴛᴇᴀᴍɴᴇɪᴍᴀɴ">
+<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=⚡ᴛʜᴇ+ᴛᴇʟᴇɢʀᴀᴍ+ғᴀsᴛᴇsᴛ+ᴜsᴇʀʙᴏᴛ⚡;+⚡ᴘᴏᴡᴇʀᴅ+ʙʏ+ᴛᴇᴀᴍɴᴇɪᴍᴀɴ⚡">
 <p align="center"> 
    <img src="https://te.legra.ph/file/49c618076b6250f85bf9f.jpg"> 
  </p> 
