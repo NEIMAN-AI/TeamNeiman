@@ -11,6 +11,7 @@
   
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=NEIMAN-AI&label=Bot%20views&color=0e75b6&style=flat" alt="NEIMAN-AI/TeamNeiman" /> </p> 
   
+  ![github card](https://github-readme-stats.vercel.app/api/pin/?username=NEIMAN-AI&repo=SPAMBOT&theme=lite)
   
  <p align="center"> 
  <b>𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗠𝗘𝗧𝗛𝗢𝗗𝗦</b> 
