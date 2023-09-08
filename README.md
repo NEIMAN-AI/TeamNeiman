@@ -52,7 +52,7 @@
   
  ## Disclaimer 
  - We won't be responsible for any kind of ban due to this bot. 
- - TeamNeiman ChatBot was made for fun purpose and to make group active . 
+ - Neiman userbot was made for fun purpose and to make group active . 
  - It's your concern if you spam and gets your account banned. 
  - Forking Repo is fine. But if you edit something we will not provide any help. 
  - In short, Fork At Your Own Risk. 
@@ -84,7 +84,9 @@
  ------ 
   
  ## `CREDITS `
- - 💖 [Neiman Marcus](https://github.com/NEIMAN-AI) 
- - 💖 [Geek Typer](https://github.com/Geektyper) 
-  
- ------
+ - 💖 [TeamNeiman](https://t.me/Neiamn_X_Support) 
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+ 
