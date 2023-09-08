@@ -87,7 +87,19 @@
  ## `CREDITS `
  - 💖 [TeamNeiman](https://t.me/Neiamn_X_Support) 
 
+<h3 align="center">
+    ─「 sᴜᴩᴩᴏʀᴛ 」─
+</h3>
 
+<p align="center">
+<a href="https://telegram.me/Neiman_X_Support"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+</p>
+
+<p align="center">
+<a href="https://telegram.me/DETECTED_09"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+</p>
+
+ 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
  
