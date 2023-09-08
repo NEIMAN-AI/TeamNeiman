@@ -100,6 +100,10 @@
 </p>
 
 <p align="center">
+<a href="https://t.me/TeamNeiman"><img src="https://img.shields.io/badge/-telegram%20Channel-blue.svg?style=for-the-badge&logo=telegram"></a>
+</p>
+
+<p align="center">
 <a href="https://youtube.com/_neiman_marcus_0"><img src="https://img.shields.io/badge/-youtube%20Channel-red.svg?style=for-the-badge&logo=Youtube"></a>
 </p>
 
