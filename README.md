@@ -60,7 +60,7 @@
  - Neiman userbot was made for fun purpose and to make group active . 
  - It's your concern if you spam and gets your account banned. 
  - Forking Repo is fine. But if you edit something we will not provide any help. 
- - In short, Fork At Your Own Risk. 
+ - In short, Fork At Your Own Risk. ```
   
  ------ 
   
@@ -84,7 +84,7 @@
  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the 
  GNU General Public License for more details. 
  You should have received a copy of the GNU General Public License 
- along with this program. If not, see <https://www.gnu.org/licenses/>. ```
+ along with this program. If not, see <https://www.gnu.org/licenses/>. 
   
  ------ 
   
