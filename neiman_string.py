@@ -67,7 +67,7 @@ def generate_neimanbot_session():
     print("One session for all NeimanBot's Project.")
     api_id = int(input("\nEnter APP ID here: "))
     api_hash = input("\nEnter API_HASH here: ")
-    with PClient(name="neimanuser", api_id=api_id, api_hash=api_hash, in_memory=True) as hell:
+    with PClient(name="neimanuser", api_id=api_id, api_hash=api_hash, in_memory=True) as neiman:
         print("\nYour NEIMANBOT SESSION is saved in your telegram saved messages.")
         _session = neiman.export_session_string()
         neiman_session = neimanbot_session(_session)
@@ -102,7 +102,7 @@ def generate_telethon_session():
 
 
 def generate_insta_session():
-    print("Instagram Session For NeimanBot!")
+    print("Instagram Session For HellBot!")
     cl = IClient()
     username = input("Enter your Instagram Username: ")
     password = input("Enter your Instagram Password: ")
@@ -151,7 +151,7 @@ def neimanbot_session(session):
         5: "91.108.56.130",
     }
 
-    error_msg = "Error in generating session! Report it in Neiman Support"
+    error_msg = "Error in generating session! Report it in Neiman Support Chats"
 
     # converting pyrogram session
     if len(session) in pyro_format.keys():
