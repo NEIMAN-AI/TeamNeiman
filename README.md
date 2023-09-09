@@ -60,7 +60,7 @@
  - Neiman userbot was made for fun purpose and to make group active . 
  - It's your concern if you spam and gets your account banned. 
  - Forking Repo is fine. But if you edit something we will not provide any help. 
- - In short, Fork At Your Own Risk. ```
+ - In short, Fork At Your Own Risk. 
   
  ------ 
   
@@ -75,7 +75,7 @@
      Copyright (C) 2023 <a href="https://github.com/NEIMAN-AI/TeamNeiman">иღιмαив♡т</a> 
  </h4> 
   
-``` Project [иღιмαив♡т](https://github.com/NEIMAN-AI/TeamNeiman) is free software: you can redistribute it and/or modify 
+Project [иღιмαив♡т](https://github.com/NEIMAN-AI/TeamNeiman) is free software: you can redistribute it and/or modify 
  it under the terms of the GNU General Public License as published by 
  the Free Software Foundation, either version 3 of the License, or 
  (at your option) any later version. 
@@ -84,11 +84,11 @@
  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the 
  GNU General Public License for more details. 
  You should have received a copy of the GNU General Public License 
- along with this program. ``` If not,  <https://www.gnu.org/licenses/>. 
+ along with this program.  If not,  <https://www.gnu.org/licenses/>. 
   
  ------ 
   
- ## `CREDITS `
+ ## CREDITS 
  - 💖 [TeamNeiman](https://t.me/Neiamn_X_Support) 
 
 <h3 align="center">
